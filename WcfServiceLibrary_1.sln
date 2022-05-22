@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary_1", "WcfServiceLibrary_1.csproj", "{1365EC63-01B9-4F3B-87FA-D1EE2FE058DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_1Host", "..\Service_1Host\Service_1Host.csproj", "{8D559716-79A1-461D-9638-4F18CF305D43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_1Host", "..\..\Service_1Host\Service_1Host\Service_1Host.csproj", "{8D559716-79A1-461D-9638-4F18CF305D43}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
